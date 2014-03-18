@@ -105,5 +105,7 @@ else
     echo   '<script type="text/javascript">
             window.location = "' . $completion_url . '";
             </script>';
+            
+            
 }
 ?>
